@@ -7,3 +7,6 @@ Create docker container with:
   
   (%CD% same as current directory)
   
+# Attach VSCode remote container
+Use in vscode by attaching to running remote container by `F!`and select **Attach to running container......**
+
